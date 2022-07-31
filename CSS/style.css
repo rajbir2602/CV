@@ -1,0 +1,94 @@
+.about-me {
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+
+}
+
+body {
+  font-family: "Poppins", Arial;
+  margin: 0;
+  }
+
+.top-bar {
+  width: 100%;
+  position: fixed;
+  height: 50px;
+  background-color: #6E85B7;
+}
+.in-bar{
+  text-align: right;
+  position: absolute;
+  right: 20px;
+  margin-top: 13px;
+}
+
+.skills-section1 {
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.skills-section2 {
+  text-align: center;
+}
+
+.heading {
+  display: inline;
+}
+
+h1 {
+  margin: 0;
+  font-family: "Sacramento", sans-serif;
+  height: 60px;
+}
+h4{
+  margin:0 ;
+}
+
+.main-picture {
+  height: 300px;
+  width: 300px;
+  border-radius: 200%;
+  margin-top: 15px;
+  }
+.middle{
+  background-color: #C4D7E0;
+}
+.bottom {
+  text-align: center;
+  background-color:#F8F9D7 ;
+  padding-top: 10px;
+
+}
+
+.icon-img {
+  height: 25px;
+  width: 25px;
+
+}
+.middle-text{
+  margin:25px;
+  margin-bottom: 0;
+  padding: 20px 0 20px 0;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  height: 0;
+  width: 25%;
+  border-width: 10px;
+}
+
+.middle-text-education{
+  margin-left:30px;
+
+}
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
