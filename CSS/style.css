@@ -43,6 +43,9 @@ h1 {
   font-family: "Sacramento", sans-serif;
   height: 60px;
 }
+.skill-icon{
+  padding: 10px;
+}
 h4{
   margin:0 ;
 }
