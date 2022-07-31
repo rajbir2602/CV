@@ -34,7 +34,10 @@ body {
   text-align: center;
 }
 
-.heading {
+.heading1 {
+  display: inline;
+}
+.heading2 {
   display: inline;
 }
 
