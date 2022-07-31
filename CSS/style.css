@@ -34,10 +34,10 @@ body {
   text-align: center;
 }
 
-.heading1 {
+#heading1 {
   display: inline;
 }
-.heading2 {
+#heading2 {
   display: inline;
 }
 
