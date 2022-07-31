@@ -82,6 +82,7 @@ hr{
   height: 0;
   width: 10%;
   border-width: 10px;
+  padding-bottom: 25px; 
 }
 
 .middle-text-education{
